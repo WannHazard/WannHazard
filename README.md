@@ -32,3 +32,4 @@ Soy un desarrollador apasionado con un gran interés en proyectos de código abi
 - [GitHub](https://github.com/WannHazard)
 
 Thanks for visiting my profile! | ¡Gracias por visitar mi perfil!
+![image](https://github.com/user-attachments/assets/c6a4176e-b6c7-4772-9c48-74afec1b7166)
