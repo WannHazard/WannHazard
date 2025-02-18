@@ -1,46 +1,34 @@
-## Hi there 👋 | Hola 👋 |
+# Hi there, I'm WannHazard 👋 | Hola, soy WannHazard 👋
 
-Welcome to my digital playground. Here, code meets philosophy, and technology bends to the will of the mind.  
-Bienvenido a mi espacio digital. Aquí, el código se encuentra con la filosofía y la tecnología se doblega a la voluntad de la mente.  
+I'm a passionate developer with a keen interest in open-source projects and cutting-edge technologies. Here's a little bit about me:
 
+Soy un desarrollador apasionado con un gran interés en proyectos de código abierto y tecnologías de vanguardia. Aquí tienes un poco sobre mí:
 
----
+- 🔭 I’m currently working on various open-source projects.
+- 🔭 Actualmente estoy trabajando en varios proyectos de código abierto.
+- 🌱 I’m currently learning more about AI and machine learning.
+- 🌱 Actualmente estoy aprendiendo más sobre IA y aprendizaje automático.
+- 👯 I’m looking to collaborate on innovative projects.
+- 👯 Estoy buscando colaborar en proyectos innovadores.
+- 💬 Ask me about web development, Python, and JavaScript.
+- 💬 Pregúntame sobre desarrollo web, Python y JavaScript.
+- 📫 How to reach me: [wannhazard@example.com](mailto:wannhazard@example.com)
+- 📫 Cómo contactarme: [wannhazard@example.com](mailto:wannhazard@example.com)
+- ⚡ Fun fact: I love hiking and exploring new places!
+- ⚡ Dato curioso: ¡Me encanta hacer senderismo y explorar nuevos lugares!
 
-### 🚀 About Me | Sobre mí | 
-- 🔥 Passionate about **AI, web development, and deep thought**.  
-- 🧠 Exploring the intersection of **technology, consciousness, and philosophy**.  
-- 🏴‍☠️ A rebel in code and in thought—question everything, build freely.  
+## GitHub Stats | Estadísticas de GitHub
 
-- 🔥 Apasionado por la **IA, el desarrollo web y el pensamiento profundo**.  
-- 🧠 Explorando la intersección entre **tecnología, conciencia y filosofía**.  
-- 🏴‍☠️ Un rebelde en el código y en el pensamiento: cuestiona todo, construye con libertad.  
+![WannHazard's GitHub stats](https://github-readme-stats.vercel.app/api?username=WannHazard&show_icons=true&theme=radical)
 
+## Top Languages | Principales lenguajes
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WannHazard&layout=compact&theme=radical)
 
-### 🌱 Currently Learning | Actualmente aprendiendo | För närvarande lär jag mig  
-- **JavaScript & AI APIs** – Shaping intelligent interactions.  
-- **Philosophy of AI** – – What makes intelligence *real*?  
+## Connect with me | Conéctate conmigo
 
----
+- [LinkedIn](https://www.linkedin.com/in/leonardo-ignacio-seguel-villagran-4b41462a7/)
+- [Twitter](https://twitter.com/wannhazard)
+- [GitHub](https://github.com/WannHazard)
 
-### 🔭 Projects & Goals | Proyectos y objetivos |  
-- 🦾 Developing AI that interacts with users on **mental well-being patterns**.  
-- 🌍 Building **LeonDigital**, a multi-language web service.  
-- 📡 Creating tools that **automate and optimize digital marketing**.  
-
-- 🦾 Desarrollando una IA que interactúa con usuarios sobre **patrones de bienestar mental**.  
-- 🌍 Construyendo **LeonDigital**, un servicio web multilingüe.  
-- 📡 Creando herramientas que **automatizan y optimizan el marketing digital**.  
-
-
-
-### ⚡ Fun Fact | Dato curioso | Rolig fakta  
-I believe the best developers aren't just coders—they're **philosophers, strategists, and architects of the future**.  
-Creo que los mejores desarrolladores no son solo programadores, sino **filósofos, estrategas y arquitectos del futuro**.  
-
----
-
-Want to collaborate? Connect with me. Let's build something **unorthodox**. 🚀  
-¿Quieres colaborar? Conéctate conmigo. Construyamos algo **no convencional**. 🚀  
- 
+Thanks for visiting my profile! | ¡Gracias por visitar mi perfil!
