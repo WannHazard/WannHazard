@@ -12,8 +12,8 @@ Soy un desarrollador apasionado con un gran interés en proyectos de código abi
 - 👯 Estoy buscando colaborar en proyectos innovadores.
 - 💬 Ask me about web development, Python, and JavaScript.
 - 💬 Pregúntame sobre desarrollo web, Python y JavaScript.
-- 📫 How to reach me: [wannhazard@example.com](mailto:wannhazard@example.com)
-- 📫 Cómo contactarme: [wannhazard@example.com](mailto:wannhazard@example.com)
+- 📫 How to reach me: [l.seguel@outlook.com](mailto:l.seguel@outlook.com)
+- 📫 Cómo contactarme: [l.seguel@outlook.com](mailto:l.seguel@outlook.com)
 - ⚡ Fun fact: I love hiking and exploring new places!
 - ⚡ Dato curioso: ¡Me encanta hacer senderismo y explorar nuevos lugares!
 
