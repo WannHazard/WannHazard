@@ -28,7 +28,6 @@ Soy un desarrollador apasionado con un gran interés en proyectos de código abi
 ## Connect with me | Conéctate conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-ignacio-seguel-villagran-4b41462a7/)
-- [Twitter](https://twitter.com/wannhazard)
 - [GitHub](https://github.com/WannHazard)
 
 Thanks for visiting my profile! | ¡Gracias por visitar mi perfil!
